@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm **shark-cat6005**, a Minecraft Bedrock Edition
 
 - I’m not fluent in English, so I mostly use AI for translation.
   
-- I use AI to help with programming, but for **Minecraft scripting**, I don’t rely on AI.
+- I use AI to help with programming, I don’t rely on AI.
   - Please don’t misunderstand me as someone who can only use AI and doesn’t know the basics. I’m just lazy, and when the problem is easy, I use AI. Of course, my skills are better than AI’s.
   
 - にゃー
