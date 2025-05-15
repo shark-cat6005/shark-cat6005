@@ -1,6 +1,6 @@
 # にゃー～！！
 
-Welcome to my GitHub profile! I'm **shark-cat6005**, a Minecraft Bedrock Edition script creator and web enthusiast. Here's a little more about me:
+Welcome to my GitHub profile! I'm **サメ猫ちゃん**, a Minecraft Bedrock Edition script creator and web enthusiast. Here's a little more about me:
 
 - I create **Minecraft Bedrock Add-ons** and work on **custom scripts** to improve gameplay.
   - I focus on creating better mods and maintaining popular ones I’ve made.
