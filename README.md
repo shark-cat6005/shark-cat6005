@@ -1,4 +1,4 @@
-# Hi there 👋
+# にゃー～！！
 
 Welcome to my GitHub profile! I'm **shark-cat6005**, a Minecraft Bedrock Edition script creator and web enthusiast. Here's a little more about me:
 
